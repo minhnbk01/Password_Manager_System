@@ -1,0 +1,9 @@
+config.py
+
+pycache/
+__pycache__/
+
+.vscode/
+
+users.txt
+passwords.txt
